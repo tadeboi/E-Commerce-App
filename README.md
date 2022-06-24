@@ -1,10 +1,10 @@
 # A Mini E-Commerce-App
 
-*Backend
+* Backend
 - C#
 - .NET Core 5 WEB API
 - Entity Framework Core
 
-*FrontEnd
+* FrontEnd
 - Typescript
 - Angular
